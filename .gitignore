@@ -1,0 +1,11 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+downloads/*
+html-report
+scripts/dist
+.idea
+.env
+.vs
+.vscode
